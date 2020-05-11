@@ -4,7 +4,13 @@
 
 ## Project Overview
 
+Java Employee Management System
+
 ## Key Features
+
+* Get, add, update,and delete employees
+* Query company departments
+* Query employees by department 
 
 ## Tech Stack
 
